@@ -1,3 +1,9 @@
+---
+icon: pen-to-square
+date: 2023-11-14
+category:
+  - Redis
+---
 # Redis分布式锁
 
 ## 什么是分布式锁？
