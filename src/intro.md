@@ -1,17 +1,17 @@
 ---
 icon: circle-info
-cover: /assets/images/cover3.jpg
 ---
 # About Me
 
-Hi there :wave:, this is tommy's repository to store some markdown file about some tech knowledge, so this is only way I put my note   using web store. Generally speaking, I am not a purely Geek, because I haven't attend any famous open source project just like Spring Framework or some other tech eco. But I really want to join it and contribute to it. May be my long life.
+大家好，我是Tommy
 
-If you read in there, you may realized that I have very poor English, Yeah :smile:, It's true, and I decided to improve my spoken english better and better, I really love learning english of crouse without any exams you know :sweat_smile:. I hate every forms of english exams.
+大四秋招🐶，典型的三低人士，MacBook Pro M1 Pro 8 Core 32G 512GB 外加两块144HZ显示器的主人，Redmi Note 12 Turbo 的主人，13年资深CF清朝老兵，全能型选手，不服求虐（bushi）
 
-::: warning Note
+大学四年搞了四年的开发，前三年牛马，第四年无业游民。
 
-This such static website was not fulfilling yet, it was just a front end framework, I will fix it and add a lot of markdown file into this blog from yuque, I hate yuque.
+之前喜欢深度学习、人工智能方面的东西，现在不喜欢！最近突然喜欢Process Mining 方向，并努力学习中，感谢学校老师提供的学习平台！
 
-:::
+长期计划打算在 Process Mining 的开源事业有所建树。
 
+最近不行了，找工作找的我想yue。
 
