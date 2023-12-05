@@ -1,5 +1,4 @@
 ---
-icon: pen-to-square
 date: 2023-11-14
 category:
   - Redis
