@@ -4,7 +4,7 @@ category:
   - Redis
   - 面试题
 ---
-# Redis相关面试题
+# Redis面试题-参考回答
 
 **面试官**：我看你做的项目中，都用到了Redis，你在最近的项目中那些场景用了Redis？
 
