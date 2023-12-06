@@ -1,6 +1,6 @@
 ---
 date: 2023-12-5
-category:
+categories: 
   - Redis
   - 面试题
 ---

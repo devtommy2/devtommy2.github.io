@@ -1,6 +1,6 @@
 ---
 date: 2023-11-14
-category:
+categories: 
   - Redis
 ---
 # Redis分布式锁
