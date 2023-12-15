@@ -10,12 +10,12 @@ export default hopeTheme({
 
   author: {
     name: "tommy",
-    url: "https://example.com",
+    url: "https://devtommy.github.io",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  logo: "/tommy.png",
 
   repo: "",
 
@@ -36,7 +36,7 @@ export default hopeTheme({
   displayFooter: true,
 
   blog: {
-    description: "一个后端开发者",
+    description: "后端开发者，流程挖掘小白",
     intro: "/intro.html",
     medias: {
       // Baidu: "https://example.com",
