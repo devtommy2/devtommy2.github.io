@@ -29,7 +29,7 @@ export default hopeTheme({
 
   footer: "TOMMY",
 
-  copyright: 'Copyright © 2020-2023 tommy',
+  copyright: 'Copyright © 2020-2024 tommy',
 
   editLink: false,
 
@@ -37,7 +37,7 @@ export default hopeTheme({
 
   blog: {
     description: "后端开发者，流程挖掘小白",
-    intro: "/intro.html",
+    intro: "/关于我.html",
     medias: {
       // Baidu: "https://example.com",
       BiliBili: "https://space.bilibili.com/295372426",
