@@ -16,6 +16,7 @@ export default hopeTheme({
   iconAssets: "fontawesome-with-brands",
 
   logo: "/tommy.png",
+  favicon: "favicon.png",
 
   repo: "",
 
@@ -29,15 +30,15 @@ export default hopeTheme({
 
   footer: "TOMMY",
 
-  copyright: 'Copyright © 2020-2024 tommy',
+  copyright: 'Copyright © 2020-2025 tommy',
 
   editLink: false,
 
   displayFooter: true,
 
   blog: {
-    description: "后端开发者，流程挖掘小白",
-    intro: "/关于我.html",
+    description: "业务流程分析｜技术爱好者",
+    intro: "关于我",
     medias: {
       // Baidu: "https://example.com",
       BiliBili: "https://space.bilibili.com/295372426",
@@ -166,7 +167,7 @@ export default hopeTheme({
 
     // uncomment these if you want a PWA
     // pwa: {
-    //   favicon: "/favicon.ico",
+    //   favicon: "/favicon2.ico",
     //   cacheHTML: true,
     //   cachePic: true,
     //   appendBase: true,
