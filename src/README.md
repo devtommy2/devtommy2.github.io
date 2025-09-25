@@ -1,13 +1,14 @@
 ---
 home: true
-layout: BlogHome
+layout: Blog
 icon: home
-title: 博客主页
+title: 主页
 #heroImage: /logo.svg
-heroText: Tommy的小窝
+heroText: tommy cheung
 heroFullScreen: true
 bgImage: /assets/images/hongkong.jpg
-tagline: 
+tagline: 『 跨越光年，归来任是你。 』 —— 爱生活
+
 #projects:
 #  - icon: project
 #    name: 项目名称
@@ -39,5 +40,5 @@ tagline:
 #    desc: 自定义详细介绍
 #    link: https://你的自定义链接
 
-footer: 励志向开源社区贡献自己的第一行代码
+footer: 千呼万唤始出来，犹抱琵琶半遮面 ——白居易
 ---

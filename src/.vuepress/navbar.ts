@@ -2,6 +2,32 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
+  {
+    text: "开发",
+    icon: "pen-to-square",
+    children: [
+      "/前端技术/",
+      "/后端技术/",
+    ]
+  },
+  {
+    text: "流程管理",
+    icon: "pen-to-square",
+    // prefix: "/posts/",
+    children: [
+      "/业务流程管理/",
+      "/流程挖掘/"
+    ]
+  },
+  {
+    text: "外链",
+    icon: "pen-to-square",
+    prefix: "/posts/",
+    children: [
+      { text: "V2 文档", icon: "book", link: "https://theme-hope.vuejs.press/zh/" },
+      { text: "V3 文档", icon: "book", link: "https://theme-hope.vuejs.press/zh/" },
+    ]
+  },
   "/关于我/",
   // "/demo/",
   // {
@@ -45,15 +71,15 @@ export default navbar([
   //     "strawberry",
   //   ],
   // },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
-  {
-    text: "V3 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
+  // {
+  //   text: "V2 文档",
+  //   icon: "book",
+  //   link: "https://theme-hope.vuejs.press/zh/",
+  // },
+  // {
+  //   text: "V3 文档",
+  //   icon: "book",
+  //   link: "https://theme-hope.vuejs.press/zh/",
+  // },
   
 ]);

@@ -2,7 +2,7 @@
 date: 2023-12-5
 categories: 
   - Redis
-  - 面试题
+  - 后端技术
 ---
 # Redis面试题
 
