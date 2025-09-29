@@ -6,8 +6,8 @@ title: 主页
 #heroImage: /logo.svg
 heroText: tommy cheung
 heroFullScreen: true
-bgImage: /assets/images/hongkong.jpg
-tagline: 『 跨越光年，归来任是你。 』 —— 爱生活
+bgImage: /assets/images/green.jpeg
+tagline: 
 
 #projects:
 #  - icon: project

@@ -20,6 +20,15 @@ export default navbar([
     ]
   },
   {
+    text: "生活",
+    icon: "pen-to-square",
+    // prefix: "/posts/",
+    children: [
+      "/随笔/",
+      // "/流程挖掘/"
+    ]
+  },
+  {
     text: "外链",
     icon: "pen-to-square",
     prefix: "/posts/",
