@@ -6,7 +6,7 @@ title: 主页
 #heroImage: /logo.svg
 heroText: tommy cheung
 heroFullScreen: true
-bgImage: /assets/images/green.jpeg
+bgImage: /assets/images/japan.jpg
 tagline: 
 
 #projects:
